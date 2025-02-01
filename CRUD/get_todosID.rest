@@ -1,2 +1,0 @@
-GET http://localhost:3000/todos/66e966771ba3e031ab14cb12
-
